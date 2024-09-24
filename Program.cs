@@ -19,8 +19,6 @@ namespace QualiteDeDev
             bibliotheque.AfficherBibliotheque();
             bibliotheque.RetournerMedia(1);
             bibliotheque.AfficherBibliotheque();
-
-            bibliotheque.Em
         }
     }
 
