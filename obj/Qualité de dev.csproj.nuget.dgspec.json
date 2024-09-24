@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/propan/Bureau/BUT3/Qualité de dev/Qualité de dev.csproj": {}
+  },
+  "projects": {
+    "/home/propan/Bureau/BUT3/Qualité de dev/Qualité de dev.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/propan/Bureau/BUT3/Qualité de dev/Qualité de dev.csproj",
+        "projectName": "Qualité de dev",
+        "projectPath": "/home/propan/Bureau/BUT3/Qualité de dev/Qualité de dev.csproj",
+        "packagesPath": "/home/propan/.nuget/packages/",
+        "outputPath": "/home/propan/Bureau/BUT3/Qualité de dev/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/propan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/250/sdk/8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

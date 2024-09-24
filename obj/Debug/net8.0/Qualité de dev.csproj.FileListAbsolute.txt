@@ -1,0 +1,14 @@
+/home/propan/Bureau/BUT3/Qualité de dev/bin/Debug/net8.0/Qualité de dev
+/home/propan/Bureau/BUT3/Qualité de dev/bin/Debug/net8.0/Qualité de dev.deps.json
+/home/propan/Bureau/BUT3/Qualité de dev/bin/Debug/net8.0/Qualité de dev.runtimeconfig.json
+/home/propan/Bureau/BUT3/Qualité de dev/bin/Debug/net8.0/Qualité de dev.dll
+/home/propan/Bureau/BUT3/Qualité de dev/bin/Debug/net8.0/Qualité de dev.pdb
+/home/propan/Bureau/BUT3/Qualité de dev/obj/Debug/net8.0/Qualité de dev.GeneratedMSBuildEditorConfig.editorconfig
+/home/propan/Bureau/BUT3/Qualité de dev/obj/Debug/net8.0/Qualité de dev.AssemblyInfoInputs.cache
+/home/propan/Bureau/BUT3/Qualité de dev/obj/Debug/net8.0/Qualité de dev.AssemblyInfo.cs
+/home/propan/Bureau/BUT3/Qualité de dev/obj/Debug/net8.0/Qualité de dev.csproj.CoreCompileInputs.cache
+/home/propan/Bureau/BUT3/Qualité de dev/obj/Debug/net8.0/Qualité de dev.dll
+/home/propan/Bureau/BUT3/Qualité de dev/obj/Debug/net8.0/refint/Qualité de dev.dll
+/home/propan/Bureau/BUT3/Qualité de dev/obj/Debug/net8.0/Qualité de dev.pdb
+/home/propan/Bureau/BUT3/Qualité de dev/obj/Debug/net8.0/Qualité de dev.genruntimeconfig.cache
+/home/propan/Bureau/BUT3/Qualité de dev/obj/Debug/net8.0/ref/Qualité de dev.dll
